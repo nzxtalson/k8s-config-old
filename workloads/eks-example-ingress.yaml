@@ -23,7 +23,7 @@ metadata:
 
 spec:
   rules:
-  - host: "hahaha.letsbld.com"
+  - host: "*.nzxt.com"
     http:
       paths:
       - backend:
